@@ -1,0 +1,16 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title":"Welcome",
+            "body":"This will be the end for you my master, its over anikan i have the highg ground. you underestimate my power. dont try it. you were my brother anikan. it was said that you would destroy the sith not join them, bring balance to the force, not leave it in darkness. I hate you",
+            "tags":["webdev","coding","news"]
+        },
+        {
+            "id":2,
+            "title":"CSS tips",
+            "body":"Lorem ipsum I dont know what I am doing i think that Im learing but am I learning things in the right way. I dont think so. I am very stressed, I am tired and I do not know what I need to do. This has not been a great year for me. I have been lazy and complacent i do not deserve to be well off, because of the lack of effort I have displayed ",
+            "tags":["webdev","css","coding"]
+        }
+    ]
+}
